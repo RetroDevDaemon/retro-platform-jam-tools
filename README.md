@@ -1,3 +1,4 @@
+(Click the menu button in the top left for table of contents!)
 
 <h2>8-Bit Consoles</h2>
 <br>-Retro Puzzle Maker (https://puzzle.nes.science/home) - Tool to create simple puzzle games for the NES.
