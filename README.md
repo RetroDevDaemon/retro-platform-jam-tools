@@ -30,6 +30,9 @@
 <br>-LoveDOS (https://github.com/rxi/lovedos) - Implementation of parts of the LÖVE API targeting DOS.
 <br>-Scorpion Editor (https://github.com/earok/scorpion-editor-demos) - Editor and compiler for Amiga.
 <br>-AQB (https://github.com/gooofy/aqb) - BASIC compiler and IDE for Amiga computers.
+<br>-Amiga C Engine (https://github.com/AmigaPorts/ACE) - C engine / framework / support library for classic Amiga hardware. 
+<br>-vscode-amiga-debug (https://github.com/BartmanAbyss/vscode-amiga-debug) - VSCode Extension to compile, debug and profile Amiga C/C++ with gcc
+<br>-vscode-amiga-assembly (https://github.com/prb28/vscode-amiga-assembly) - VSCode Extension to support assembly language for the Amiga
 <br>-xdev86k (https://github.com/yosshin4004/xdev68k) - Cross-compilation tools for the Sharp X68000.
 
 <h2>Multiple Targets</h2>
