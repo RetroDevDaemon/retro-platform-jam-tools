@@ -34,6 +34,7 @@
 <br>-vscode-amiga-debug (https://github.com/BartmanAbyss/vscode-amiga-debug) - VSCode Extension to compile, debug and profile Amiga C/C++ with gcc
 <br>-vscode-amiga-assembly (https://github.com/prb28/vscode-amiga-assembly) - VSCode Extension to support assembly language for the Amiga
 <br>-xdev86k (https://github.com/yosshin4004/xdev68k) - Cross-compilation tools for the Sharp X68000.
+<br>-lib16 and OpenWatcom (https://github.com/SuperIlu/lib16) - Small framework to make MS-DOS programs using OpenWatcom (http://open-watcom.github.io/).
 
 <h2>Multiple Targets</h2>
 <br>-Turbo Rascal Syntax Error (https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/) - "A complete suite (IDE, compiler, programming language, resource editor) intended for developing games/demos for 8 / 16-bit line of computers, with a focus on the MOS 6502, the Motorola 68000, the (GB)Z80 and the X86."
